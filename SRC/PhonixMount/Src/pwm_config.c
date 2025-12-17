@@ -41,7 +41,7 @@ void __Config_PWM(volatile GPIO_DataType *perif1, volatile TIM2_5_DataType *peri
         perif2->CCMR1 |= (0x1U<<3); //enable preload register in OC1PE bit
         perif2->CCER |= (0x1U<<0); //enable channel 1 for CCER
     }
-    else if (CH==1)
+    else if (CH==2)
     {
         //configure for channel 2 on CCRM1
         perif2->CCMR1 &= ~(0x7U<<12); //reset OC2M output compare mode to (0)
