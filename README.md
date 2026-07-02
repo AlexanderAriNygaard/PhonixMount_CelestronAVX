@@ -51,9 +51,3 @@ Then one evening, just as I was really finding my stride with astrophotography, 
 Fast forward twelve years — I’m now a senior software engineer and systems architect at General Motors. While cleaning out my old room one day, I came across that same telescope, gathering dust. Seeing it again brought back all those late nights under the stars with my dad — and all the curiosity that started me down the path to engineering in the first place.
 
 So here I am, determined to restore that mount and breathe new life into it — learning, hacking, and experimenting as I go. Along the way, I’ll be designing new control electronics, writing custom firmware, and documenting the process here.
-
-If you’ve found your way to this repository, I hope it inspires you to tinker, rebuild, and explore your own curiosities — no matter how long something’s been sitting idle.
-
-Never stop learning. Never stop exploring.
-
-*Alexander Nygaard*
